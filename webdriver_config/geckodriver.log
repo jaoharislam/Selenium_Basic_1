@@ -1,0 +1,47 @@
+1665320725062	geckodriver	INFO	Listening on 127.0.0.1:50783
+1665320728221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileXIjKop"
+1665320729652	Marionette	INFO	Marionette enabled
+1665320729666	Marionette	INFO	Listening on port 50793
+Read port: 50793
+WebDriver BiDi listening on ws://127.0.0.1:50784
+1665320730316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileXIjKop\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50784/devtools/browser/c21a3949-ba33-4e00-b692-3d7a10610a0c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ixkQ4/y7/l/en_US/obdOxYd4IJC.js?_nc_x=Ij3Wp8lg5Kz, line 3: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ixkQ4/y7/l/en_US/obdOxYd4IJC.js?_nc_x=Ij3Wp8lg5Kz, line 3: unreachable code after return statement
+1665320920774	Marionette	INFO	Stopped listening on port 50793
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileGhR5eN"
+1665320891637	Marionette	INFO	Marionette enabled
+1665320891651	Marionette	INFO	Listening on port 51008
+Read port: 51008
+WebDriver BiDi listening on ws://127.0.0.1:50999
+1665320892269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileGhR5eN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50999/devtools/browser/151bad6a-c4fe-44ec-9b2a-0a15f42ca846
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1665320914276	Marionette	INFO	Stopped listening on port 51008
+1665320932226	geckodriver	INFO	Listening on 127.0.0.1:51152
+1665320935316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileVaPmos"
+1665320936634	Marionette	INFO	Marionette enabled
+1665320936655	Marionette	INFO	Listening on port 51162
+Read port: 51162
+WebDriver BiDi listening on ws://127.0.0.1:51153
+1665320937287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileVaPmos\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51153/devtools/browser/68314f49-b719-4e04-94c0-b58a10dabaea
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1665320961127	Marionette	INFO	Stopped listening on port 51162
+!!! error running onStopped callback: TypeError: callback is not a function
+1665320988920	geckodriver	INFO	Listening on 127.0.0.1:51320
+1665320991981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileMyrpsN"
+1665320992982	Marionette	INFO	Marionette enabled
+1665320992996	Marionette	INFO	Listening on port 51330
+Read port: 51330
+WebDriver BiDi listening on ws://127.0.0.1:51321
+1665320993598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dudae\\AppData\\Local\\Temp\\rust_mozprofileMyrpsN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51321/devtools/browser/82119b8b-46de-4103-995f-ace97828d82e
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1665321037621	Marionette	INFO	Stopped listening on port 51330
